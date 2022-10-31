@@ -25,7 +25,7 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 <!-- Links to your social media accounts -->
 
-[1]: https://twitter.com/NevleNehal
+[1]: https://twitter.com/ChiradeepP2
 [2]: https://www.linkedin.com/in/chiradeepp26883b1bb/
 ![](https://komarev.com/ghpvc/?username=chiradeep1310)
 #### :gear: Tools and Tech 
